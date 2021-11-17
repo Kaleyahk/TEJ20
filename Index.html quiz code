@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<!---Kaleyah kirlew--->
+<!---quiz1Aindex.html--->
+<!---November 5,2021--->
+<!---TEJ20---> 
+
+
+<html>
+<head>
+  <title>My First HTML Quiz!</title>
+</head>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+
+<body>
+  <h2><em>My First HTML Quiz.</em></h2>
+  
+  <div id="media">
+
+    <img src= https://3.imimg.com/data3/MN/CV/MY-4882525/working-on-html-source-code-250x250.jpg />
+      
+      <div id="My Thoughts">
+        </div>
+    <h3> What comes to mind when I think about HTML is:</h3>
+    <ol>
+      <li>Software</li>
+      <li>Coding</li>
+      <li>Creating web pages</li>
+    </ol>
+     <div id="research"></div>
+     <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML Research</a>
+
+   <head>
+  <link  rel="stylesheet">
+  <link href="style.css"  rel="stylesheet">
+</head>
+   <table>
+  <thead>
+  <tr>
+    <th>Course</th>
+    <th>Good Thing about Course</th>
+    
+    <th>Bad Thing about Course</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>Math</td>
+      <td>Learning math is good for your brain.</td>
+      <td>Stuff is on your test even if you didn't learn it</td>
+    </tr>
+    <tr>
+  <td>Computer Class</td>
+  <td>Learning the skills needed to utilize computer technology.</td>
+  <td>Computers distracting Students</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+</tfoot>
+</table>
+  </div>
+</body>
+
+</html>
